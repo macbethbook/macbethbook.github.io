@@ -78,3 +78,38 @@ span.stage_directions_inline {
 
 span.character_beforespeech {
 }
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: lightyellow;}
+  
+  
+  main {
+      border:2px solid blueviolet;
+      background-color: whitesmoke;
+      width: 70%;
+      margin: 0 auto;
+      max-width: 600px;
+      padding: 2em 2em 2em;
+  }
+  
+  figure {
+      width: 30%;
+      margin:20px auto 10px auto;
+  max-width: 600px;
+  }
+  
+  h1, h2 {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-align: center;
+  }
+  
+  img{
+   width: 100%;
+   }
+  
+   p {
+  text-align: justify;
+   }
+   .first {
+       color: lightcoral;
+   }
