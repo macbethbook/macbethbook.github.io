@@ -1,0 +1,57 @@
+* {
+box-sizing: border-box;
+margin: 0;
+ }
+
+
+body{
+font-family: 'Tenor Sans', sans-serif;
+background-color: lightseagreen;
+}
+main {
+background-color: transparent;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+width: 70%;
+margin: 0 auto;
+}
+
+h1 { text-align: center;
+margin: 1em;
+font-family: 'Tenor Sans', sans-serif;
+}
+
+
+figure {
+flex-basis: 300px;
+flex-grow: 0;
+margin: 1em;
+}
+
+ul {
+margin-top: 1em;
+font-style: italic;
+}
+
+img{
+width: 100%;
+ }
+
+ .info {
+padding: 1em;
+flex-basis: 300px;
+flex-grow: 0;
+margin: 1em;
+}
+
+
+footer {
+text-align: center;
+}
+ p {
+margin-top: 1em;
+ }
+
+
