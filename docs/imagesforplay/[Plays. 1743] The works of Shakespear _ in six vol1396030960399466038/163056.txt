@@ -1,0 +1,58 @@
+Digital Image File Name	163056
+Source Call Number	ART Vol. b72 v.5
+Source Creator	Shakespeare, William, 1564-1616, author.
+Source Title	[Plays. 1743] The works of Shakespear : in six volumes : carefully revised and corrected by the former editions, and adorned with sculptures designed and executed by the best hands.
+Image Details	Macbeth
+Source Created or Published	[1743-1744]
+Physical Description	leaf 3O2 recto (page 475)
+Digital Image Type	FSL collection
+HAMNET CATALOG RECORD	---
+Creator (Hamnet)	Shakespeare, William, 1564-1616, author.
+Uniform Title (Hamnet)	Plays. 1743
+Title (Hamnet)	The works of Shakespear : in six volumes : carefully revised and corrected by the former editions, and adorned with sculptures designed and executed by the best hands.
+Place of Creation or Publ. (Hamnet)	Oxford :
+Publisher (Hamnet)	Printed at the Theatre,
+Date of Creation or Publ. (Hamnet)	MDCCXLIII-MDCCXLIV [1743-1744]
+Physical Description (Hamnet)	6 v. : ill., port. (engravings) ; 29 cm (4to)
+Subject (Hamnet)	Annotations (Provenance) - 18th century. DFo
+Subject (Hamnet)	Printing privileges (Publishing) - England - Oxford - 1743.
+Subject (Hamnet)	Drawings (visual works) - 18th century. DFo
+Associated Name (Hamnet)	Rowe, Nicholas, 1674-1718.
+Associated Name (Hamnet)	Hanmer, Thomas, Sir, 1677-1746.
+Associated Name (Hamnet)	Hanmer, Thomas, Sir, 1677-1746, signer.
+Associated Name (Hamnet)	Pope, Alexander, 1688-1744.
+Associated Name (Hamnet)	Gravelot, Hubert François, 1699-1773, printmaker.
+Associated Name (Hamnet)	Hayman, Francis, 1708-1776, artist.
+Associated Name (Hamnet)	Hayman, Francis, 1708-1776, signer.
+Associated Name (Hamnet)	Cowper, William, 1731-1800, former owner.
+Associated Name (Hamnet)	Bunbury, Henry, Sir, 1778-1860, former owner.
+Associated Name (Hamnet)	Kemble, John Towgood, 1788-1860, former owner.
+Associated Name (Hamnet)	Campbell, Alexander, d. not before 1744, former owner.
+Associated Name (Hamnet)	Hanmer, Wm. (William), d. not before 1744, former owner.
+Associated Name (Hamnet)	Ludford, John, d. not before 1744, former owner.
+Associated Name (Hamnet)	Hanmer, John Hanmer, Baron, 1809-1881, former owner.
+Associated Name (Hamnet)	Perry, Marsden J. (Marsden Jasiel), 1850-1935, former owner.
+Associated Name (Hamnet)	Smedley, William T. (William Thomas), 1851-1934, former owner.
+Associated Name (Hamnet)	Oxford University Press, printer.
+Associated Name (Hamnet)	Warwick Castle (Warwick, England). Shakespeare Library, former owner.
+Notes (Hamnet)	Edited by Sir Thomas Hanmer.
+Notes (Hamnet)	Contains the plays only.
+Notes (Hamnet)	With a general title page dated 1744. Volume title pages read: The works of Mr. William Shakespear; with v. 1-4 dated 1743, and v. 5-6 dated 1744. Each play with a divisional title page.
+Notes (Hamnet)	Imprimatur on general title page verso v. 1: Imprimatur. Gualt. Hodges, Vice-Can. Oxon. Mar. 26. 1744.
+Notes (Hamnet)	Contains the Chandos portrait, views of the Westminster abbey monument and Stratford bust (the latter altered as in Pope's edition), and an engraving to each play, all by Gravelot after Hayman.
+Notes (Hamnet)	With the prefaces of Hanmer and Pope, Some account of the life, &c. by Rowe, and Ben Johnson's poem in v. 1. Glossary with errata in v. 6.
+Notes (Hamnet)	v. 1. Tempest ; Midsummer-night's dream ; Two gentlemen of Verona ; Merry wives of Windsor ; Measure for measure ; Comedy of errors ; Much ado about nothing -- v. 2. Merchant of Venice ; Love's labour's lost ; As you like it ; Taming of the shrew ; All's well that ends well ; Twelfth-night ; Winter's tale -- v. 3. King Lear ; King John ; King Richard II ; King Henry IV ; Henry V -- v. 4. King Henry VI ; King Richard III ; King Henry VIII -- v. 5. Timon of Athens ; Coriolanus ; Julius Caesar ; Antony and Cleopatra ; Titus Andronicus ; Macbeth -- v. 6. Troilus and Cressida ; Cymbeline ; Romeo and Juliet ; Hamlet ; Othello.
+Notes (Hamnet)	copy 1 v.1-6 housed 20120511 CMS pda DFo
+Notes (Hamnet)	copy 4 v.1 housed 20120524 CMS pda DFo
+Notes (Hamnet)	copy 6 v.1-2 housed 20120524 CMS pda DFo
+Notes (Hamnet)	copy 9 v.1,4-6 housed 20120524 CMS pda DFo
+Notes (Hamnet)	copy 10 v.1-3,5 housed 20120524 CMS pda DFo
+Notes (Hamnet)	copy 1 v.1-6 mass deacidified 20120511 CMS pda DFo
+Notes (Hamnet)	upgraded 2017-02 EB Other Updated description of ART Vol. b72: 5 drawings are by Gravelot; previously all were said to be by Hayman local DFo
+Notes (Hamnet)	PR2752 1744 copy 1 Sh.Col. upgraded 2017-04 EEW 1 link Luna local DFo
+Notes (Hamnet)	ART Vol. b72 v.6. Washington, D.C., Folger Shakespeare Library, 2014. Shakespeare's the Thing. Opening: plate following p.316. DFo
+Citations (Hamnet)	Alston, R.C. Bibliography of the English language, III.75
+Citations (Hamnet)	English short title catalogue (ESTC), T138604
+Citations (Hamnet)	Jaggard, W. Shakespeare bibliography, p. 499
+Folger Holdings Notes (Hamnet)	Bound uniform in six volumes. Includes the original pen and wash drawings, each bound facing its respective engraving: 31 by Francis Hayman, 5 by Hubert Gravelot. In v. 1, pasted on the front free endpaper: dated (November 28, 1740) manuscript contract between Sir Thomas Hanmer and Francis Hayman, signed by both, pertaining to the execution of the illustrations for this work (cataloged separately). Also pasted on front fly-leaf in the same hand: list of 18 persons or institutions to receive copies of the published work ("Sr William Bunbury, His five sisters, ..."). Bound in early 19th century, gilt-tooled red goatskin. Provenance: autographs of Sir Thomas Hanmer and Francis Hayman; armorial bookplate of Henry Edward Bunbury (motto: "Esse quam videri"); Marsden J. Perry copy; Folger purchase from A. Rosenbach Co, July 1919.
+Call Number (Hamnet)	ART Vol. b72
