@@ -13,11 +13,6 @@ body {
   background-color:rgb(245, 237, 222);
 }
 
-audio {
-  width: 100%;
-  margin: 1em, 0; 
-}
-
 .backtotop {
 position: fixed;
 bottom: 2px;
@@ -148,7 +143,7 @@ font-size:200%;
   }
   
   h2.charactername { font-weight: lighter;
-    font-size: normal;
+    font-size: medium;
     padding: 5px;
   }
 
@@ -195,6 +190,12 @@ p.prose {
  margin: 2em;
 }
 
+audio {
+  width: 100%;
+  margin: 0; 
+  padding: 10px;
+   }
+
 @media screen and (max-width: 800px) {
   html {
   font-size: 12px;
@@ -206,4 +207,3 @@ p.prose {
       padding: 1em 3em;
     }
   }
-
