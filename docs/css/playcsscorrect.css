@@ -13,6 +13,11 @@ body {
   background-color:rgb(245, 237, 222);
 }
 
+audio {
+  width: 100%;
+  margin: 1em, 0; 
+}
+
 .backtotop {
 position: fixed;
 bottom: 2px;
@@ -190,11 +195,6 @@ p.prose {
  margin: 2em;
 }
 
-audio {
-  width: 100%;
-  margin: 1em, 0; 
-   }
-
 @media screen and (max-width: 800px) {
   html {
   font-size: 12px;
@@ -206,4 +206,4 @@ audio {
       padding: 1em 3em;
     }
   }
-  
+
