@@ -73,7 +73,7 @@ scroll-padding-top: 70px;
   }
   
   nav ul li:hover {
-    background-color: rgb(198, 212, 175);
+    background-color: rgb(178, 194, 152);
   }
 
   nav ul li a:hover {
@@ -125,16 +125,33 @@ scroll-padding-top: 70px;
   font-size: medium;
   padding: 2em;
   /* background-color: rgb(218, 200, 169); */
-  width: 60%;
+  width: 70%;
   margin: 1em auto;
   }
   .dramatis {
-    background-color: rgb(238, 205, 163);
+    background-color: rgb(235, 206, 169);
     font-size: small;
+  }
+  .play {
+margin: 1em auto;
+background:rgb(216, 201, 152)
   }
 
   h1.act {
 font-size:200%;
+font-weight: bold;
+text-decoration: underline;
+  }
+
+  h2.firstscene {
+    font-size: 150%;
+    text-decoration: underline;
+  }
+
+  h2.scene {
+    font-size: 150%;
+    text-decoration: underline;
+
   }
 
   h1.dramatishead { font-size: 25px;
@@ -148,10 +165,10 @@ font-size:200%;
   }
 
   h3.play_location {
-text-align: center;
-font-size: 20px;
-font-style: italic;
-padding: 5px;
+  text-align: center;
+  font-size: medium;
+  font-style: italic;
+  padding: 20px;
 
   }
   
@@ -172,22 +189,22 @@ p.character { font-weight: bold;
 }
 
 h2.location { font-style: italic;
-  margin: 2em;
+  margin: 1.5em;
   font-size: large;
 }
 
 h2.stagedirection { font-style: italic;
-  margin: 2em; 
+  margin: 1.5em; 
   font-weight: lighter;
   font-size: large;
 }
 p.verseline {
   margin: 0 0 0.4em 8em;
-  font-weight: normal;
 }
 
 p.prose {
- margin: 2em;
+ margin: 0 0 0.4em 8em;
+ line-height: 150%;
 }
 
 audio {
