@@ -10,7 +10,7 @@ body {
   font-family: 'Tenor Sans', sans-serif;
   padding: 0;
   margin-top: 75px;
-  background-color:rgb(236, 229, 214);
+  background-color: cornsilk;
 }
 
 .backtotop {
@@ -23,11 +23,11 @@ opacity: 0.9;
 .backtotop a {
 text-decoration: none; 
 font-size: 3cm;
-color: rgba(212, 197, 124, 0.89);
+color: rgba(172, 157, 84, 0.89);
 }
 
 .backtotop a:hover {
-color: rgb(198, 212, 175); 
+color: rgb(182, 169, 129); 
 }
 
   nav {
@@ -35,7 +35,7 @@ color: rgb(198, 212, 175);
     position: fixed;
     top: 0;
     left: 0;
-    background-color: rgba(212, 197, 124, 0.89);
+    background-color: rgba(172, 157, 84, 0.89);
   }
 
   input[type="checkbox"] {
@@ -69,11 +69,11 @@ color: rgb(198, 212, 175);
     text-decoration: none;
     padding: 0.8rem 1rem;
     display: block;
-    color:rgb(245, 245, 245);
+    color: white
   }
   
   nav ul li:hover {
-    background-color: rgb(178, 194, 152);
+    background-color: rgb(182, 169, 129);
   }
 
   nav ul li a:hover {
@@ -129,12 +129,12 @@ color: rgb(198, 212, 175);
   margin: 1em auto;
   }
   .dramatis {
-    background-color: rgb(187, 167, 142);
+    background-color: rgb(156, 142, 124);
     font-size: small;
   }
   .play {
 margin: 1em auto;
-background:rgb(216, 201, 152)
+background:rgb(216, 201, 152);
   }
 
   h1.act {
