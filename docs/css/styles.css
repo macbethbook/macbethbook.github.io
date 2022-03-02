@@ -6,7 +6,7 @@ margin: 0;
 
 body{
 font-family: 'Tenor Sans', sans-serif;
-background-color: rgb(64, 192, 186);
+background-color: rgb(162, 187, 122);
 }
 
 main {
@@ -76,5 +76,5 @@ color: rgb(247, 224, 213);
 }
 
 .playlink:hover {
-background-color: rgb(72, 105, 99);
+background-color: rgb(133, 153, 100);
 }
