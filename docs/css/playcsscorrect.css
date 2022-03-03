@@ -193,10 +193,11 @@ h2.location { font-style: italic;
   font-size: large;
 }
 
-h2.stagedirection { font-style: italic;
+h2.stagedirection { 
+  font-style: italic;
   margin: 1.5em; 
   font-weight: lighter;
-  font-size: large;
+  font-size: medium;
 }
 p.verseline {
   margin: 0 0 0.4em 8em;
