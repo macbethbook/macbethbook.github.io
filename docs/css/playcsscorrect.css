@@ -23,11 +23,11 @@ opacity: 0.9;
 .backtotop a {
 text-decoration: none; 
 font-size: 2cm;
-color: rgb(190, 173, 115);
+color: rgb(180, 164, 109);
 }
 
 .backtotop a:hover {
-color: cornsilk; 
+color: rgba(131, 120, 64, 0.89); 
 }
 
   nav {
