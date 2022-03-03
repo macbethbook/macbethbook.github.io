@@ -27,7 +27,7 @@ color: rgba(172, 157, 84, 0.89);
 }
 
 .backtotop a:hover {
-color: rgb(182, 169, 129); 
+color: rgb(170, 158, 121); 
 }
 
   nav {
@@ -73,7 +73,7 @@ color: rgb(182, 169, 129);
   }
   
   nav ul li:hover {
-    background-color: rgb(182, 169, 129);
+    background-color: rgb(150, 133, 87);
   }
 
   nav ul li a:hover {
@@ -83,7 +83,7 @@ color: rgb(182, 169, 129);
   li ul {
     display: none;
     position: absolute;
-    background-color:rgb(206, 187, 124);
+    background-color:rgb(190, 173, 115);
   }
 
   li ul li a {
